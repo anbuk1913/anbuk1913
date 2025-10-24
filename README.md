@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Honey</h1>
+<h1 align="center">Hey there 😊, I'm Anbu</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 About Me  
+### ⚡ About Me  
 💻 Full Stack Developer (MERN & Django) | 🌱 Passionate Learner | 🧠 Problem Solver  
 🎓 Physics Graduate turned Developer | 🌸 Building **Bloomy Blossia** – an E-commerce Plant Store  
 ⚙️ Currently exploring **LangChain**, **Local LLMs**, and **AI-integrated Chatbots**
@@ -53,12 +53,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=tokyonight" height="165"/>
 </p>
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66de7f49c46f68d0520a3927?variant=dark&roadmaps=javascript%2Cnodejs%2Cmongodb%2Cpython" alt="roadmap.sh"/></a>
 
 ---
 
