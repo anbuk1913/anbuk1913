@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Honey</h1>
 
-<!--
-**anbuk1913/anbuk1913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+💻 Full Stack Developer (MERN & Django) | 🌱 Passionate Learner | 🧠 Problem Solver  
+🎓 Physics Graduate turned Developer | 🌸 Building **Bloomy Blossia** – an E-commerce Plant Store  
+⚙️ Currently exploring **LangChain**, **Local LLMs**, and **AI-integrated Chatbots**
+
+---
+
+### 🧩 Tech Stack
+
+| Frontend | Backend | Database | Tools & Others |
+|-----------|----------|-----------|----------------|
+| React, TypeScript, Tailwind | Node.js, Express, Django | MongoDB, MySQL | Git, Docker, VSCode, Postman |
+
+---
+
+### 🧠 Competitive Coding
+
+<p align="center">
+  <a href="https://leetcode.com/your_leetcode_username" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://roadmap.sh/your_roadmap_username" target="_blank">
+    <img src="https://img.shields.io/badge/Roadmap.sh-000000?style=for-the-badge&logo=roadmapdotsh&logoColor=white" />
+  </a>
+  <a href="https://github.com/your_github_username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your_linkedin_username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/your_twitter_username" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+### ⚡ Fun Fact  
+> I turn caffeine ☕ into code and bugs 🐞 into features!  
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=450&lines=Let's+build+something+awesome!;Keep+learning%2C+keep+coding!;Code.+Debug.+Repeat.">
+</p>
