@@ -24,13 +24,13 @@
 ### 🧠 Competitive Coding
 
 <p align="center">
-  <a href="https://leetcode.com/your_leetcode_username" target="_blank">
+  <a href="https://leetcode.com/u/Anbukumar_19" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://roadmap.sh/your_roadmap_username" target="_blank">
+  <a href="https://roadmap.sh/u/anbu" target="_blank">
     <img src="https://img.shields.io/badge/Roadmap.sh-000000?style=for-the-badge&logo=roadmapdotsh&logoColor=white" />
   </a>
-  <a href="https://github.com/your_github_username" target="_blank">
+  <a href="https://github.com/anbuk1913" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -40,13 +40,13 @@
 ### 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your_linkedin_username" target="_blank">
+  <a href="https://www.linkedin.com/in/anbukumar-mern" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your_twitter_username" target="_blank">
+  <a href="https://x.com/anbu_k_143" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:anbukumar.careers@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
