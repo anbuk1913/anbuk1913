@@ -58,8 +58,8 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anbuk1913&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anbuk1913&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66de7f49c46f68d0520a3927?variant=dark&roadmaps=javascript%2Cnodejs%2Cmongodb%2Cpython" alt="roadmap.sh"/></a>
