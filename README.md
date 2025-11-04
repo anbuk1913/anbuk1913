@@ -66,11 +66,6 @@
 
 ---
 
-### ⚡ Fun Fact  
-> I turn caffeine ☕ into code and bugs 🐞 into features!  
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=450&lines=Let's+build+something+awesome!;Keep+learning%2C+keep+coding!;Code.+Debug.+Repeat.">
 </p>
