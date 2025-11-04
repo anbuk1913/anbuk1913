@@ -14,6 +14,7 @@
 ---
 
 <a href="https://leetcode.com/u/Anbukumar_19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="riyas" height="30" width="40" /></a>
+[![Leetcode Status](https://leetcard.jacoblin.cool/Anbukumar_19?ext=contest&theme=dark)](https://leetcode.com/u/Anbukumar_19/)
 
 ### 🧩 Tech Stack
 
