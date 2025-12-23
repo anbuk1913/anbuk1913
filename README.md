@@ -8,7 +8,7 @@
 
 ### ⚡ About Me  
 💻 Full Stack Developer (MERN & Django) | 🌱 Passionate Learner | 🧠 Problem Solver  
-🎓 Physics Graduate turned Developer | 🌸 Build **Imbed Software** – an E-commerce Electronic Store  
+🎓 Physics Graduate turned Developer | 🌸 Built **Imbed Software** – an E-commerce Electronic Store  
 ⚙️ Currently exploring **LangChain**, **Local LLMs**, and **AI-integrated Chatbots**
 
 ---
